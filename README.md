@@ -14,4 +14,4 @@ Boot → Offline-Detailkarten die gewünschten Kacheln speichern.
   Datenbanken und stehen ebenfalls unter der ODbL 1.0 (https://opendatacommons.org/licenses/odbl/1-0/).
 - Land der Übersichtskarten: Natural Earth (gemeinfrei)
 
-Inhalt: App und 46 Detailkacheln, zusammen 167 MB.
+Inhalt: App und 46 Detailkacheln, zusammen 215 MB.
