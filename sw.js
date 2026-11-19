@@ -2,7 +2,7 @@
 // App-Dateien: zuerst Netz (damit neue Versionen sofort ankommen), offline aus dem Cache.
 // Kartenkacheln: zuerst Cache (sparsam mit Datenvolumen an Bord), begrenzt auf MAX_TILES.
 // Wird beim Bauen aus package.json gesetzt (scripts/build.mjs); so verwirft jede neue Version den alten Cache
-const VERSION = "eurohelm-v0.6.0";
+const VERSION = "eurohelm-v0.6.1";
 const SHELL = ["./", "./index.html", "./app.js", "./styles.css", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 const TILE_HOSTS = ["tile.openstreetmap.org", "tiles.openseamap.org", "ows.emodnet-bathymetry.eu"];
 const TILE_CACHE = "eurohelm-tiles";
